@@ -1,0 +1,4 @@
+#Sat Apr 27 01:42:56 BST 2019
+base.0=C\:\\Users\\Janeiro Meosa\\Downloads\\zip folder\\FirebaseImplementation\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
